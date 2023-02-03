@@ -1,0 +1,29 @@
+.userChat{
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color:white;
+}
+.userChat:hover{
+    background-color: #1f082e;
+}
+.ch-img{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    background-color:white;
+}
+.ch-sp{
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+    
+}
+.recents{
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+    margin-top:4px;
+}

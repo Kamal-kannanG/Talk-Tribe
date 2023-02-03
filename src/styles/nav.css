@@ -1,0 +1,30 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #1f082e;
+    padding: 10px;
+    justify-content: space-between;
+    height: 50px;
+}
+.navbar span{
+    font-weight: bold;
+}
+.user span{
+    color: white;
+}
+.user{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+button{
+    border-radius: 4px;
+}
+.dp{
+    height: 24px;
+    width: 24px;
+    background-color: #ddddf7;
+    border-radius: 50%;
+    object-fit: cover;
+}

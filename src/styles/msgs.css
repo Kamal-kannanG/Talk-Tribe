@@ -1,0 +1,11 @@
+.messages{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    background-color: #ddddf7;
+    padding: 10px;
+    height: calc(100% - 160%);
+    overflow-y: scroll;
+    height: 80%;
+    gap: 0px;
+}

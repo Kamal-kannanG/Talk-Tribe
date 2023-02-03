@@ -1,0 +1,33 @@
+.input{
+    height: 50px;
+    background-color: white;
+    padding: 10px;
+    position: sticky;
+    top: 91%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.msg-box{
+    width: 100%;
+    border: none;
+    outline: none;
+    color: #201f20;
+    font-size: 18px;
+}
+.send{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.at-im{
+    height: 24px;
+    cursor: pointer;
+    object-fit: cover;
+}
+.se-bt{
+    border: none;
+    padding: 10px 15px;
+    color: white;
+    background-color: #8805f7;
+}
